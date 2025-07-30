@@ -45,7 +45,7 @@ Welcome to **Leads Tracker** — a simple yet powerful Chrome Extension that hel
 
 ## 📸 Preview
 
-[Preview of the Work](https://merry-sundae-e1e661.netlify.app)
+![Preview of the Work](https://github.com/S-KeerthanaDharshini/Leads-Tracker/blob/main/output.png)
 
 
 👩‍💻 **Created by [Keerthana Saravanan](https://www.linkedin.com/in/keerthana211701/)**
